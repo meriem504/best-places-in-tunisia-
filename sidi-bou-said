@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="index.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div id="titre">
+            <a class="start" href="tunisia.html"> <i>Countries</i></a>
+            <a class="start" href="about.html"><i>About</i></a>
+            <a class="start" href="/"><i>Contact</i></a>
+        </div>
+        <img class="img1" src="https://2.bp.blogspot.com/-eqjojT_J4s4/Wnbk16qdeGI/AAAAAAAAAkU/_W3qeULW2AQnCF6DJKbyurWXwxNaK0GowCLcBGAs/s640/9.jpg">
+        <p id="places">Sidi bousaid</p>
+        <p class="stylep"><strong><i> Sidi Bou Said </i></strong> is a picturesque village located on a hilltop overlooking the Mediterranean Sea in northern Tunisia, near the capital city of Tunis. Known for its distinctive blue and white buildings, Sidi Bou Said is a popular tourist destination and a cultural gem. Here are some key features and facts about Sidi Bou Said:<br>
+            <strong>1.</strong>Architectural Style: Sidi Bou Said is famous for its unique architectural style. Most of the buildings in the village are painted white with accents of vibrant blue doors, windows, and ornamental details. This color scheme creates a striking visual contrast against the blue sky and sea, giving the village a charming and picturesque appearance.<br>
+            <strong>2.</strong>Traditional Tunisian Design: The architecture in Sidi Bou Said is heavily influenced by traditional Tunisian design elements. The buildings typically feature arched doorways, domed roofs, and intricate tile work. This traditional aesthetic adds to the village's timeless beauty and cultural significance.<br>
+            <strong>3.</strong>Medina and Cobblestone Streets: The heart of Sidi Bou Said is its medina, the old town area. The narrow, winding streets are paved with cobblestones, lined with shops, cafes, and art galleries. Exploring the medina offers visitors an opportunity to discover local crafts, traditional products, and artwork.<br>
+            <strong> 4.</strong>Café Culture: Sidi Bou Said is well-known for its vibrant café culture. Numerous cafes and tea houses are scattered throughout the village, offering stunning views of the sea and a relaxing atmosphere. It is a popular spot for both locals and tourists to enjoy a cup of mint tea and soak in the scenic surroundings.<br>
+            <strong> 5.</strong>Ennejma Ezzahra Palace: One of the main attractions in Sidi Bou Said is the Ennejma Ezzahra Palace. This beautiful mansion was once the residence of the Baron Rodolphe d'Erlanger, a French-Tunisian musician and composer. Today, the palace serves as a cultural center and museum, hosting concerts, exhibitions, and events.<br>
+            <strong> 6.</strong>The Tomb of Sidi Bou Said: The village is named after the renowned Sufi saint, Abu Said al-Baji, also known as Sidi Bou Said. His tomb, located near the entrance of the village, is considered a spiritual site and a place of pilgrimage. Visitors can pay their respects and witness the serene ambiance of the shrine.<br>
+            <strong> 7.</strong>Stunning Views: From various viewpoints in Sidi Bou Said, visitors can enjoy breathtaking panoramic views of the Gulf of Tunis and the surrounding landscape. The combination of the blue sea, white buildings, and lush greenery creates a postcard-perfect scene that attracts photographers and nature enthusiasts.<br>
+            Sidi Bou Said's enchanting beauty, rich cultural heritage, and Mediterranean charm make it a must-visit destination in Tunisia. Whether you explore the narrow streets, savor a cup of tea in a traditional café, or simply take in the mesmerizing views, Sidi Bou Said offers a unique and unforgettable experience.
+        </p>
